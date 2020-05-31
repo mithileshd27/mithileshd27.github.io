@@ -7,4 +7,4 @@ categories: new post
 This is the classic game of Tic Tac Toe or Xs-Os that everyone loves. 
 Go ahead to this link to play it.
 
-[TIC TAC TOE][]
+[TIC TAC TOE][https://mithileshd27.github.io/tictactoe/]
