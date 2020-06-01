@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Weather App"
+date:   2020-06-02 00:36:00 +1000
+categories: new post
+---
+Use this website to simply check the weather information of your area.
+
+[Weather App](https://mithileshd27.github.io/weather_app/)
